@@ -2,6 +2,7 @@
 [![Node CI](https://github.com/Duyen-codes/null_or_empty/actions/workflows/main.yml/badge.svg)](https://github.com/Duyen-codes/null_or_empty/actions/workflows/main.yml)
 
 A Node.js package that checks, if a given string is null or empty.
+let make some changes
 
 ## Usage
 
